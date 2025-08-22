@@ -1,3 +1,9 @@
+/**
+ * Author: Michael Pate
+ * Version: 2.0
+ * Date: 8-21-2025
+ */
+
 #include <EEPROM.h>
 #include <Adafruit_NeoPixel.h>
 
