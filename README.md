@@ -4,7 +4,7 @@
  https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 To program the board more easily, I designed a programmer shield for an Arduino Uno that lets me use a programming cable on JST PH headers.
-See the link below to that repo.
+See the link below to that repo. https://github.com/MichaelPate/Arduino-ISP-PROgrammer-Shield/tree/main
 
 I will eventually get around to designing an enclosure for this. When that happens, ill put it on thingiverse and add the link here!
 
