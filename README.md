@@ -7,6 +7,7 @@ To program the board more easily, I designed a programmer shield for an Arduino 
 See the link below to that repo. https://github.com/MichaelPate/Arduino-ISP-PROgrammer-Shield/tree/main
 
 I will eventually get around to designing an enclosure for this. When that happens, ill put it on thingiverse and add the link here!
+https://www.thingiverse.com/thing:7125638
 
 <img width="953" height="1270" alt="image" src="https://github.com/user-attachments/assets/b659c3f1-e1cf-4bbb-ba78-05401ce7d449" />
 
